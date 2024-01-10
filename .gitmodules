@@ -1,0 +1,3 @@
+[submodule "stdg"]
+	path = stdg
+	url = git@github.com:gagiuntoli/stdg.git
